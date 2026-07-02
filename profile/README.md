@@ -6,6 +6,8 @@ Swift implementations of Ecma International specifications — a per-authority o
 
 One package per specification, named `swift-ecma-<number>`. Each package implements its source document as literally as possible — parsing, validation, and formatting enforced by Swift's type system — and defines its own namespace (`ECMA_48`). Where several specifications govern one subject, the unifying `swift-*-standard` package lives in [swift-standards](https://github.com/swift-standards).
 
+> Swift ECMA is an independent open-source project. It is not affiliated with, endorsed by, or sponsored by Ecma International.
+
 ## Coverage
 
 | Package | Specification |
