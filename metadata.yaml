@@ -6,7 +6,7 @@
 #
 # Schema mirrors per-repo .github/metadata.yaml. Read by social-preview.sh.
 
-description: "Swift implementations of ecma specifications."
+description: "Swift implementations of Ecma International specifications — part of the Swift Institute ecosystem."
 homepage: "https://swift-institute.org"
 
 socialPreview:
@@ -17,3 +17,10 @@ socialPreview:
   caption: "STANDARDS"
 readme:
   family: G
+org:
+  name: "Swift Ecma"
+  description: "Swift implementations of Ecma International specifications — part of the Swift Institute ecosystem."
+  email: "coen@coenttb.com"
+  blog: "https://swift-institute.org"
+  twitter: "coenttb"
+  location: "Netherlands"
