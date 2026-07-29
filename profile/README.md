@@ -8,13 +8,9 @@ One package per specification, named `swift-ecma-<number>`. Each package impleme
 
 > Swift ECMA is an independent open-source project. It is not affiliated with, endorsed by, or sponsored by Ecma International.
 
-## Coverage
+## Find packages
 
-| Package | Specification |
-|---|---|
-| [swift-ecma-48](https://github.com/swift-ecma/swift-ecma-48) | Control Functions for Coded Character Sets |
-
-Every repository description carries the specification's full title; the [repositories tab](https://github.com/orgs/swift-ecma/repositories) lists them all.
+The complete, current package list is available in the [repositories tab](https://github.com/orgs/swift-ecma/repositories). Search for `swift-ecma-` to find packages by their specification number; each repository description carries the specification's full title.
 
 ## Status
 
