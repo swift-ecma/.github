@@ -21,6 +21,6 @@ org:
   name: "Swift Ecma"
   description: "Swift implementations of Ecma International specifications — part of the Swift Institute ecosystem."
   email: "coen@coenttb.com"
-  blog: "https://swift-institute.org"
+  blog: "https://github.com/swift-institute"
   twitter: "coenttb"
   location: "Netherlands"
